@@ -5,6 +5,8 @@ import path from 'path'
 import {MongoClient} from 'mongodb';
 import colors from 'colors'
 
+// to run applicaiton:$ nodemon server.js
+
 const app = express();
 
 dotenv.config({
