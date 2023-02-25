@@ -7,3 +7,6 @@ This is a MERN application.
 ## Backend: nodemon server.js
 
 <img src="./img.png">
+
+### Swiping right on Bezos
+<img src="./img_1.png">
